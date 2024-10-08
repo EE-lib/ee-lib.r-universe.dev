@@ -1,0 +1,22 @@
+[
+    {
+        "package": "surveillance",
+        "url": "https://r-forge.r-project.org/projects/surveillance"
+    },
+    {
+        "package": "twins",
+        "url": "https://codeberg.org/EE-hub/twins"
+    },
+    {
+        "package": "hhh4contacts",
+        "url": "https://codeberg.org/EE-hub/hhh4contacts"
+    },
+    {
+        "package": "HIDDA.forecasting",
+        "url": "https://github.com/HIDDA/forecasting"
+    },
+    {
+        "package": "hhh4ZI",
+        "url": "https://github.com/Junyi-L/hhh4ZI"
+    }
+]
