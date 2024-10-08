@@ -1,7 +1,8 @@
 [
     {
         "package": "surveillance",
-        "url": "https://r-forge.r-project.org/projects/surveillance"
+        "url": "https://github.com/r-forge/surveillance",
+        "subdir": "pkg"
     },
     {
         "package": "twins",
