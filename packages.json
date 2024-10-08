@@ -13,6 +13,10 @@
         "url": "https://codeberg.org/EE-hub/hhh4contacts"
     },
     {
+        "package": "hhh4addon",
+        "url": "https://github.com/jbracher/hhh4addon"
+    },
+    {
         "package": "HIDDA.forecasting",
         "url": "https://github.com/HIDDA/forecasting"
     },
