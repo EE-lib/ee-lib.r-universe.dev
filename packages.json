@@ -1,8 +1,7 @@
 [
     {
         "package": "surveillance",
-        "url": "https://github.com/r-forge/surveillance",
-        "subdir": "pkg"
+        "url": "https://codeberg.org/EE-hub/surveillance"
     },
     {
         "package": "twins",
